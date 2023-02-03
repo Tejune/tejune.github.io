@@ -1,3 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+button {
+    color: rgb(48, 143, 231);
+    font-weight: bold;
+    text-align:center;
 }

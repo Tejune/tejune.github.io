@@ -1,3 +1,7 @@
 function alertButton () {
-    alert("SWAG CERTIFIED SUCCESSFUL!");
+    alert("You will never be swag");
+}
+
+function backflipButton () {
+    alert("NO FUCKING WAY!!! THAT'S CRAZY!");
 }

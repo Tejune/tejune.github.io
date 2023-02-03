@@ -1,3 +1,3 @@
-function alert () {
-    alert("SWAG CERTIFIED SUCCESSFUL!")
+function alertButton () {
+    alert("SWAG CERTIFIED SUCCESSFUL!");
 }
